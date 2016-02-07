@@ -48,8 +48,7 @@ Schedule ebay searches and receive an email when the results match the parameter
 ## LATEST NEWS & POSTS 
 **2016-01-31**: [Invoices for Zipbooks](https://itunes.apple.com/us/app/invoices-for-zipbooks/id1078032966?ls=1&mt=8) is available on the App Store  
 **2016-01-20**: [Merlo for twitter](http://www.merloapp.com) version 4.1.2 is now available  
-**2015-12-18**: [Merlo for twitter](http://www.merloapp.com) version 4.1.1 is now available  
-**2015-12-18**: [Merlo for twitter](http://www.merloapp.com) version 4.1.1 is now available  
+**2015-12-18**: [Merlo for twitter](http://www.merloapp.com) version 4.1.1 is now available   
 **2015-11-21**: [TimeMachine for twitter](https://itunes.apple.com/us/app/tweet-time-machine-2/id832124891?ls=1&mt=8) version 3.1.0 is now available   
 **2015-11-10**: [Merlo for twitter](http://www.merloapp.com) version 4.1.0 is now available  
 **2015-10-23**: [Introducing Merlo 4](https://medium.com/@xeo_it/introducing-merlo-4-ee492e4f089#.6t8jr192a)   
