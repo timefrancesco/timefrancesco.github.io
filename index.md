@@ -4,12 +4,12 @@ layout: default
 
 I'm a passionate developer specialized in mobile and embedded systems.  
  
-I've experience in iOS, Android, Xamarin, various embedded architectures, C#, Javascript, C & C++.  
-I'm currently focusing on mobile development (in love with Swift!) and I have good eye for project management, having the big picture in my mind helps planning my tasks in the big scheme of things.  
+I have experience in iOS, Android, Xamarin, various embedded architectures, C#, Javascript, C & C++.  
+I'm currently focusing on mobile development (in love with Swift!) and I have a good eye for project management: having the big picture in my mind helps me plan tasks efficently in the great scheme of things.  
 
 I love everything related to programming and technology in general and I'm a supporter of the [hacker culture](https://en.wikipedia.org/wiki/Hacker_culture). 
 
-Below you will find some projects I've worked in my spare time, feel free to check them out.    
+Below you will find some projects I've worked on in my spare time. Feel free to check them out.    
      
 ## PROJECTS 
 A list of projects I've developed in my spare time over the years.  
