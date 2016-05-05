@@ -48,7 +48,8 @@ Schedule ebay searches and receive an email when the results match the parameter
 [Flickr](https://www.flickr.com/photos/francesco-pretelli/)  
 [AngelList](https://angel.co/francesco-pretelli)  
 
-## LATEST NEWS & POSTS 
+## LATEST NEWS & POSTS   
+**2016-05-05**: [Poggy](https://itunes.apple.com/us/app/poggy-text-quickly/id1109936777?ls=1&mt=8) is available on the App Store and [GitHub](https://github.com/xeo-it/poggy)  
 **2016-01-31**: [Invoices for Zipbooks](https://itunes.apple.com/us/app/invoices-for-zipbooks/id1078032966?ls=1&mt=8) is available on the App Store  
 **2016-01-20**: [Merlo for twitter](http://www.merloapp.com) version 4.1.2 is now available  
 **2015-12-18**: [Merlo for twitter](http://www.merloapp.com) version 4.1.1 is now available   
