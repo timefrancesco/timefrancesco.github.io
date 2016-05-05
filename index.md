@@ -18,6 +18,9 @@ It goes without saying that discontinued and old projects didn't make it, but th
 * **[Merlo for twitter](http://www.merloapp.com)**  
 Daily reports, statistics and insights on your twitter account.   
 
+* **[Poggy](https://github.com/xeo-it/poggy)**  
+An open source  Watch app to quickly set and trigger actions from your wrist.  
+
 * **[Invoices for Zipbooks](https://github.com/xeo-it/zipbooks-invoices-swift)**  
 A simple iOS open source client for [Zipbooks](http://www.zipbooks.com) invoicing.  
 
