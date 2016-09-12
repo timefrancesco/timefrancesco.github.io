@@ -27,7 +27,7 @@ A simple iOS open source client for [Zipbooks](http://www.zipbooks.com) invoicin
 * **[ReadingPack](http://www.readingpack.com/ios)**  
 The official iOS ReadingPack client for iPhone and iPad.  
 
-* **[TimeMachine for twitter](https://itunes.apple.com/us/app/tweet-time-machine-2/id832124891?ls=1&mt=8)**  
+* **[TimeMachine for twitter](https://itunes.apple.com/us/app/tweet-time-machine-2/id832124891?ls=1&mt=8&at=1001lpzu)**  
 Download your complete twitter history on your iPhone, search trough it or jump to any day you've tweeted something.  
 
 * **[Slide Calendar](https://github.com/xeo-it/slide-calendar)**  
@@ -49,16 +49,17 @@ Schedule ebay searches and receive an email when the results match the parameter
 [AngelList](https://angel.co/francesco-pretelli)  
 
 ## LATEST NEWS & POSTS   
-**2016-05-05**: [Poggy](https://itunes.apple.com/us/app/poggy-text-quickly/id1109936777?ls=1&mt=8) is available on the App Store and [GitHub](https://github.com/xeo-it/poggy)  
-**2016-01-31**: [Invoices for Zipbooks](https://itunes.apple.com/us/app/invoices-for-zipbooks/id1078032966?ls=1&mt=8) is available on the App Store  
+**2016-09-12**: [Poggy](https://itunes.apple.com/us/app/poggy-text-quickly/id1109936777?ls=1&mt=8&at=1001lpzu) has been updated to support Slack.   
+**2016-05-05**: [Poggy](https://itunes.apple.com/us/app/poggy-text-quickly/id1109936777?ls=1&mt=8&at=1001lpzu) is available on the App Store and [GitHub](https://github.com/xeo-it/poggy)  
+**2016-01-31**: [Invoices for Zipbooks](https://itunes.apple.com/us/app/invoices-for-zipbooks/id1078032966?ls=1&mt=8&at=1001lpzu) is available on the App Store  
 **2016-01-20**: [Merlo for twitter](http://www.merloapp.com) version 4.1.2 is now available  
 **2015-12-18**: [Merlo for twitter](http://www.merloapp.com) version 4.1.1 is now available   
-**2015-11-21**: [TimeMachine for twitter](https://itunes.apple.com/us/app/tweet-time-machine-2/id832124891?ls=1&mt=8) version 3.1.0 is now available   
+**2015-11-21**: [TimeMachine for twitter](https://itunes.apple.com/us/app/tweet-time-machine-2/id832124891?ls=1&mt=8&at=1001lpzu) version 3.1.0 is now available   
 **2015-11-10**: [Merlo for twitter](http://www.merloapp.com) version 4.1.0 is now available  
 **2015-10-23**: [Introducing Merlo 4](https://medium.com/@xeo_it/introducing-merlo-4-ee492e4f089#.6t8jr192a)   
 **2015-10-20**: [Merlo for twitter](http://www.merloapp.com) version 4.0.0 is now available  
 **2015-05-10**: [Slide Calendar](https://github.com/xeo-it/slide-calendar) is here!  
-**2015-05-09**: [TimeMachine for twitter](https://itunes.apple.com/us/app/tweet-time-machine-2/id832124891?ls=1&mt=8) version 3.0.0 is now available    
+**2015-05-09**: [TimeMachine for twitter](https://itunes.apple.com/us/app/tweet-time-machine-2/id832124891?ls=1&mt=8&at=1001lpzu) version 3.0.0 is now available    
 **2015-02-06**: [Readingpack](https://www.readingpack.com/ios) for iOS is now available on the App Store  
 **2014-12-06**: [Implement facebook login in Xamarin iOS](http://www.frapps.net/implement-facebook-login-in-xamarin-ios/)  
 **2014-12-06**: [Random rants from a random traveler](https://medium.com/@xeo_it/random-rants-from-a-random-traveller-572a477bfcd7#.a1ihnrmr1)  
