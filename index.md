@@ -48,7 +48,8 @@ Schedule ebay searches and receive an email when the results match the parameter
 [Flickr](https://www.flickr.com/photos/francesco-pretelli/)  
 [AngelList](https://angel.co/francesco-pretelli)  
 
-## LATEST NEWS & POSTS   
+## LATEST NEWS & POSTS  
+**2016-10-29**: [Macbook Pro 2016 — long life to USB-C docks](https://medium.com/@xeo_it/macbook-pro-2016-long-life-to-usb-c-docks-e3b5ec99de15#.2pf010hg8)  
 **2016-09-12**: [Poggy](https://itunes.apple.com/us/app/poggy-text-quickly/id1109936777?ls=1&mt=8&at=1001lpzu) has been updated to support Slack.   
 **2016-05-05**: [Poggy](https://itunes.apple.com/us/app/poggy-text-quickly/id1109936777?ls=1&mt=8&at=1001lpzu) is available on the App Store and [GitHub](https://github.com/xeo-it/poggy)  
 **2016-01-31**: [Invoices for Zipbooks](https://itunes.apple.com/us/app/invoices-for-zipbooks/id1078032966?ls=1&mt=8&at=1001lpzu) is available on the App Store  
