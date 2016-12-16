@@ -44,9 +44,9 @@ Schedule ebay searches and receive an email when the results match the parameter
 [Twitter](http://www.twitter.com/xeo_it)  
 [Linkedin](https://www.linkedin.com/in/francescopretelli)  
 [Medium](https://medium.com/@xeo_it)  
-[Instagram](https://www.instagram.com/xeo_it/)  
+[Instagram](https://www.instagram.com/francesco.pretelli/)  
 [Flickr](https://www.flickr.com/photos/francesco-pretelli/)  
-[AngelList](https://angel.co/francesco-pretelli)  
+[AngelList](https://angel.co/xeo_it)  
 
 ## LATEST NEWS & POSTS  
 **2016-11-24**: [How to debug iOS Push Notifications](https://medium.com/@xeo_it/how-to-debug-ios-push-notifications-33b0b209bdf3#.2nlgaddjs)  
