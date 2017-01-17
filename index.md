@@ -16,7 +16,7 @@ A list of projects I've developed in my spare time over the years.
 It goes without saying that discontinued and old projects didn't make it, but they will always have a place on my hard drive! :-)
 
 * **[TouchBoard](http://www.timelabs.io/touchboard)**  
-A visual shortcut Ninja!  
+A visual shortcuts Ninja!  
 
 * **[Merlo for twitter](http://www.merloapp.com)**  
 Daily reports, statistics and insights on your twitter account.   
