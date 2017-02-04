@@ -15,10 +15,10 @@ Below you will find some projects I've worked on in my spare time. Feel free to 
 A list of projects I've developed in my spare time over the years.  
 It goes without saying that discontinued and old projects didn't make it, but they will always have a place on my hard drive! :-)
 
-* **[TouchBoard](http://www.timelabs.io/touchboard)**  
+* **[TouchBoard](https://www.timelabs.io/touchboard)**  
 A visual shortcuts Ninja!  
 
-* **[Merlo for twitter](http://www.merloapp.com)**  
+* **[Merlo for twitter](https://www.timelabs.io/merlo)**  
 Daily reports, statistics and insights on your twitter account.   
 
 * **[Poggy](https://github.com/xeo-it/poggy)**  
