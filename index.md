@@ -21,10 +21,10 @@ A visual shortcuts Ninja!
 * **[Merlo for twitter](http://www.timelabs.io/merlo)**  
 Daily reports, statistics and insights on your twitter account.   
 
-* **[Poggy](https://github.com/xeo-it/poggy)**  
+* **[Poggy](https://github.com/timefrancesco/poggy)**  
 An open source  Watch app to quickly set and trigger actions from your wrist.  
 
-* **[Invoices for Zipbooks](https://github.com/xeo-it/zipbooks-invoices-swift)**  
+* **[Invoices for Zipbooks](https://github.com/timefrancesco/zipbooks-invoices-swift)**  
 A simple iOS open source client for [Zipbooks](http://www.zipbooks.com) invoicing.  
 
 * **[ReadingPack](http://www.readingpack.com/ios)**  
@@ -33,18 +33,18 @@ The official iOS ReadingPack client for iPhone and iPad.
 * **[TimeMachine for twitter](https://itunes.apple.com/us/app/tweet-time-machine-2/id832124891?ls=1&mt=8&at=1001lpzu)**  
 Download your complete twitter history on your iPhone, search trough it or jump to any day you've tweeted something.  
 
-* **[Slide Calendar](https://github.com/xeo-it/slide-calendar)**  
+* **[Slide Calendar](https://github.com/timefrancesco/slide-calendar)**  
 An open source Xamarin component for iOS. A simple and clear calendar.  
 
-* **[CbrConverter](https://github.com/xeo-it/cbr-converter)**  
+* **[CbrConverter](https://github.com/timefrancesco/cbr-converter)**  
 Convert your pdf to cbr and vice-versa. Open source, for windows and osx.  
 
 * **[Ebay search scheduler](http://www.frapps.net/ebay-search-scheduler/)**  
 Schedule ebay searches and receive an email when the results match the parameters.  
 
 ## WHERE TO FIND ME
-[GitHub](https://github.com/xeo-it)  
-[Twitter](http://www.twitter.com/xeo_it)  
+[GitHub](https://github.com/timefrancesco)  
+[Twitter](http://www.twitter.com/timefrancesco)  
 [Linkedin](https://www.linkedin.com/in/francescopretelli)  
 [Medium](https://medium.com/@xeo_it)  
 [Instagram](https://www.instagram.com/francesco.pretelli/)  
