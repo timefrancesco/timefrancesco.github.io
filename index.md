@@ -46,7 +46,7 @@ Schedule ebay searches and receive an email when the results match the parameter
 [GitHub](https://github.com/timefrancesco)  
 [Twitter](http://www.twitter.com/timefrancesco)  
 [Linkedin](https://www.linkedin.com/in/francescopretelli)  
-[Medium](https://medium.com/@xeo_it)  
+[Medium](https://medium.com/@timefrancesco)  
 [Instagram](https://www.instagram.com/francesco.pretelli/)  
 [Flickr](https://www.flickr.com/photos/francesco-pretelli/)  
 [AngelList](https://angel.co/xeo_it)  
