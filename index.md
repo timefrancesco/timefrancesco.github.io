@@ -49,7 +49,7 @@ Schedule ebay searches and receive an email when the results match the parameter
 [Medium](https://medium.com/@timefrancesco)  
 [Instagram](https://www.instagram.com/francesco.pretelli/)  
 [Flickr](https://www.flickr.com/photos/francesco-pretelli/)  
-[AngelList](https://angel.co/xeo_it)  
+[AngelList](https://angel.co/timefrancesco)  
 
 <br>
 <br>
